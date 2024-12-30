@@ -1,0 +1,25 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: shavian-translator-instance
+    environment:
+      - INPUT_FILE
+      - INPUT_FORMAT
+    # networks:
+    #   - translator
+    # depends_on:
+    #   - ollama
+  # ollama:
+  #   image: ollama/ollama:latest
+  #   container_name: ollama-server
+  #   volumes:
+  #     - "${OLLAMA_PATH}:/root/.ollama"
+  #   ports:
+  #     - "11434:11435"
+  #   networks:
+  #     - translator
+networks:
+  translator:
+    driver: bridge

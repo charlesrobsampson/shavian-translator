@@ -1,0 +1,278 @@
+{
+    "tear": [
+        {
+            "pronunciation": "tɛər",
+            "partOfSpeech": "noun",
+            "definition": "A drop of saline fluid secreted by the lacrimal glands of the eyes."
+        },
+        {
+            "pronunciation": "tɪər",
+            "partOfSpeech": "verb",
+            "definition": "To rip or damage something by pulling it apart."
+        }
+    ],
+    "lead": [
+        {
+            "pronunciation": "lɛd",
+            "partOfSpeech": "noun",
+            "definition": "A heavy, soft, gray metal used in construction and batteries."
+        },
+        {
+            "pronunciation": "lid",
+            "partOfSpeech": "verb",
+            "definition": "To guide or direct someone or something."
+        }
+    ],
+    "bass": [
+        {
+            "pronunciation": "beɪs",
+            "partOfSpeech": "adjective",
+            "definition": "Low in pitch or range, typically referring to sound."
+        },
+        {
+            "pronunciation": "bæs",
+            "partOfSpeech": "noun",
+            "definition": "A type of fish found in freshwater or saltwater."
+        }
+    ],
+    "wind": [
+        {
+            "pronunciation": "wɪnd",
+            "partOfSpeech": "noun",
+            "definition": "The natural movement of air, typically outdoors."
+        },
+        {
+            "pronunciation": "waɪnd",
+            "partOfSpeech": "verb",
+            "definition": "To twist or turn something, often into a coil or spiral."
+        }
+    ],
+    "row": [
+        {
+            "pronunciation": "roʊ",
+            "partOfSpeech": "verb",
+            "definition": "To propel a boat using oars."
+        },
+        {
+            "pronunciation": "raʊ",
+            "partOfSpeech": "noun",
+            "definition": "A noisy quarrel or dispute."
+        }
+    ],
+    "close": [
+        {
+            "pronunciation": "kloʊs",
+            "partOfSpeech": "adjective",
+            "definition": "Near in distance, time, or relationship."
+        },
+        {
+            "pronunciation": "kloʊz",
+            "partOfSpeech": "verb",
+            "definition": "To shut something, such as a door or a book."
+        }
+    ],
+    "bow": [
+        {
+            "pronunciation": "baʊ",
+            "partOfSpeech": "verb",
+            "definition": "To bend the upper part of the body as a gesture of respect or greeting."
+        },
+        {
+            "pronunciation": "boʊ",
+            "partOfSpeech": "noun",
+            "definition": "A curved weapon for shooting arrows or a decorative knot."
+        }
+    ],
+    "desert": [
+        {
+            "pronunciation": "dɛzərt",
+            "partOfSpeech": "noun",
+            "definition": "A barren area of land with little precipitation."
+        },
+        {
+            "pronunciation": "dɪzɜrt",
+            "partOfSpeech": "verb",
+            "definition": "To abandon someone or something."
+        }
+    ],
+    "minute": [
+        {
+            "pronunciation": "mɪnɪt",
+            "partOfSpeech": "noun",
+            "definition": "A unit of time equal to 60 seconds."
+        },
+        {
+            "pronunciation": "maɪnjut",
+            "partOfSpeech": "adjective",
+            "definition": "Extremely small or tiny."
+        }
+    ],
+    "refuse": [
+        {
+            "pronunciation": "rɛfjus",
+            "partOfSpeech": "noun",
+            "definition": "Waste material or garbage."
+        },
+        {
+            "pronunciation": "rɪfjuz",
+            "partOfSpeech": "verb",
+            "definition": "To decline or reject something."
+        }
+    ],
+    "object": [
+        {
+            "pronunciation": "ɒbdʒɛkt",
+            "partOfSpeech": "noun",
+            "definition": "A material thing that can be seen or touched."
+        },
+        {
+            "pronunciation": "əbdʒɛkt",
+            "partOfSpeech": "verb",
+            "definition": "To express opposition or disapproval."
+        }
+    ],
+    "live": [
+        {
+            "pronunciation": "lɪv",
+            "partOfSpeech": "verb",
+            "definition": "To be alive; to exist."
+        },
+        {
+            "pronunciation": "laɪv",
+            "partOfSpeech": "adjective",
+            "definition": "Happening in real-time, as opposed to being recorded."
+        }
+    ],
+    "conduct": [
+        {
+            "pronunciation": "kɒndʌkt",
+            "partOfSpeech": "noun",
+            "definition": "The manner in which a person behaves."
+        },
+        {
+            "pronunciation": "kəndʌkt",
+            "partOfSpeech": "verb",
+            "definition": "To organize or carry out an activity."
+        }
+    ],
+    "content": [
+        {
+            "pronunciation": "kɒntɛnt",
+            "partOfSpeech": "noun",
+            "definition": "The material or information contained within something."
+        },
+        {
+            "pronunciation": "kəntɛnt",
+            "partOfSpeech": "adjective",
+            "definition": "Pleased or satisfied with a situation."
+        }
+    ],
+    "project": [
+        {
+            "pronunciation": "prɒdʒɛkt",
+            "partOfSpeech": "noun",
+            "definition": "An undertaking or task."
+        },
+        {
+            "pronunciation": "prədʒɛkt",
+            "partOfSpeech": "verb",
+            "definition": "To estimate or forecast something based on current trends."
+        }
+    ],
+    "read": [
+        {
+            "pronunciation": "rid",
+            "partOfSpeech": "verb",
+            "definition": "To look at and comprehend the meaning of written or printed matter."
+        },
+        {
+            "pronunciation": "rɛd",
+            "partOfSpeech": "verb",
+            "definition": "Past tense of 'read'."
+        }
+    ],
+    "entrance": [
+        {
+            "pronunciation": "ɛntrəns",
+            "partOfSpeech": "noun",
+            "definition": "An opening or doorway that allows access to a place."
+        },
+        {
+            "pronunciation": "ɪntræns",
+            "partOfSpeech": "verb",
+            "definition": "To captivate or fill someone with wonder."
+        }
+    ],
+    "digest": [
+        {
+            "pronunciation": "daɪdʒɛst",
+            "partOfSpeech": "noun",
+            "definition": "A summary or compilation of information."
+        },
+        {
+            "pronunciation": "daɪdʒɛst",
+            "partOfSpeech": "verb",
+            "definition": "To break down food in the stomach for absorption."
+        }
+    ],
+    "invalid": [
+        {
+            "pronunciation": "ɪnvəlɪd",
+            "partOfSpeech": "noun",
+            "definition": "A person who is too ill or disabled to care for themselves."
+        },
+        {
+            "pronunciation": "ɪnvælɪd",
+            "partOfSpeech": "adjective",
+            "definition": "Not valid or legally acceptable."
+        }
+    ],
+    "resume": [
+        {
+            "pronunciation": "rɛzjumeɪ",
+            "partOfSpeech": "noun",
+            "definition": "A document summarizing a person's education, work experience, and skills."
+        },
+        {
+            "pronunciation": "rɪzjum",
+            "partOfSpeech": "verb",
+            "definition": "To begin again after an interruption."
+        }
+    ],
+    "permit": [
+        {
+            "pronunciation": "pɜrmɪt",
+            "partOfSpeech": "noun",
+            "definition": "An official document giving permission for something."
+        },
+        {
+            "pronunciation": "pərmɪt",
+            "partOfSpeech": "verb",
+            "definition": "To allow or give permission."
+        }
+    ],
+    "overuse": [
+        {
+            "pronunciation": "oʊvərjus",
+            "partOfSpeech": "noun",
+            "definition": "Excessive use of something."
+        },
+        {
+            "pronunciation": "oʊvərjuz",
+            "partOfSpeech": "verb",
+            "definition": "To use something too often."
+        }
+    ],
+    "present": [
+        {
+            "pronunciation": "prɛzənt",
+            "partOfSpeech": "noun",
+            "definition": "A gift; the current moment."
+        },
+        {
+            "pronunciation": "prɪzɛnt",
+            "partOfSpeech": "verb",
+            "definition": "To formally offer or give something to someone."
+        }
+    ]
+}
