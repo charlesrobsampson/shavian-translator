@@ -16,9 +16,9 @@ One day I might make this as a tool you can install but for now you'll have to c
 
 Stick the file you want to convert in the `app/input` folder. Right now only `.epub` and `.txt` files are supported.
 
-Either rename the file to `input.whatever` or run change the env var to reflect the name of the file you want to convert.
+Either rename the file to `input.whatever` or run it and change the env vars to reflect the file you want to convert.
 
-The defualts are:
+The defaults are:
  - `INPUT_FILE=input`
  - `INPUT_FORMAT=epub`
 
